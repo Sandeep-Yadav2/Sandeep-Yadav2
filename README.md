@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sandeep Yadav
-- 👀 I’m interested in Machine Learning And Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on these kind of technology and projects of ML/AI
+- 👀 I am currently working in RapidValue Solutions as Software Engineer.
+- Working on Java and Spring boot microservices.
 - 📫 How to reach me ...
 
 <!---
